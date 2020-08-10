@@ -1,6 +1,6 @@
 ### Hello, I'm Neil 👋
-* 🔭 I’m currently working for Galaxy Software Services since 2017 as .NET web developer.
-* 🌟 Fun fact: any of web frontend & backend new things, anime, game... 😂
+* :office: I’m currently working for Galaxy Software Services since 2017 as .NET web developer.
+* 🌟 I'm interested in any of web frontend & backend new things, anime, game... 😂
 
 ### I love coding, writing and sharing any technology and skills of web I learned and knew :muscle:
 * It's my blog(sharing in here): https://thinkinmd.com/
