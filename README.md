@@ -5,20 +5,10 @@
 ### I love coding, writing and sharing any technology and skills of web I learned and knew :muscle:
 * It's my blog(sharing in here): https://thinkinmd.com/
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cdcd72&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdcd72&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**cdcd72/cdcd72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cdcd72&show_icons=true&theme=dracula&bg_color=21262D&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdcd72&layout=compact&theme=dracula&bg_color=21262D&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=blueedgetechno&theme=redical&hide_border=true" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=cdcd72&color=ff69b4" />
+</div>
