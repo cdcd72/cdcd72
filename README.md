@@ -16,6 +16,10 @@
 * :office: Currently working for Galaxy Software Services since 2017 as .NET web developer.
 * 🌟 I'm interested in any of web frontend & backend new things, anime and game... 😂
 
+## Dev Stack 🧰
+
+TODO: dev stack...
+
 ## GitHub Status 📊
 
 <div>
