@@ -13,12 +13,13 @@
 
 ---
 
-* :office: Currently working for Galaxy Software Services since 2017 as .NET web developer.
-* 🌟 I'm interested in any of web frontend & backend new things, anime and game... 😂
+- 💬 Ask me about **.net, angular, docker**
+- 🌟 I'm interested in any of web frontend & backend new things, anime and game... 😂
 
-## GitHub Status 📊
-
-<div>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cdcd72&show_icons=true&theme=dracula&bg_color=21262D&hide_border=true" />
+</div>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cdcd72&theme=dracula&bg_color=21262D&hide_border=true" />
 </div>
