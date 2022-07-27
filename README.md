@@ -17,9 +17,9 @@
 - 🌟 I'm interested in any of web frontend & backend new things, anime and game... 😂
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cdcd72&show_icons=true&theme=dracula&bg_color=21262D&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cdcd72&show_icons=true&hide=issues&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=ff69b4&hide_border=true" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cdcd72&theme=dracula&bg_color=21262D&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cdcd72&show_icons=true&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=ff69b4&hide_border=true" />
 </div>
