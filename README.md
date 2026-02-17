@@ -16,6 +16,15 @@
 - 💬 Ask me about **.net, angular, docker**
 - 🌟 I'm interested in any of web frontend & backend new things, anime and game... 😂
 
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=cdcd72&show_icons=true&hide=issues&bg_color=0D1117&text_color=c9d1d9&icon_color=ff69b4&title_color=ff69b4&hide_border=true" alt="cdcd72" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cdcd72&show_icons=true&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=ff69b4&hide_border=true&layout=compact" alt="cdcd72" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=cdcd72&show_icons=true&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=ff69b4&hide_border=true" alt="cdcd72" />
+</div>
+
 <details>
 <summary><b>Skills</b></summary>
 <ul>
@@ -63,21 +72,3 @@
   </li>
 </ul>
 </details>
-
-<details>
-  <summary><b>📊 Github Stats</b></summary>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=cdcd72&show_icons=true&hide=issues&bg_color=0D1117&text_color=c9d1d9&icon_color=ff69b4&title_color=ff69b4&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cdcd72&show_icons=true&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=ff69b4&hide_border=true" />
-  </div>
-</details>
-
-<details>
-  <summary><b>🏆 GitHub Trophies</b></summary>
-  <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=cdcd72&theme=onedark&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
-  </div>
-</details>
-
